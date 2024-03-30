@@ -1,0 +1,40 @@
+{
+  "name": "coffe_shop_app",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.21.0",
+    "@react-native-community/blur": "^4.4.0",
+    "@react-navigation/bottom-tabs": "^6.5.20",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/native-stack": "^6.9.26",
+    "@types/react": "~18.2.45",
+    "expo": "~50.0.14",
+    "expo-blur": "^12.9.2",
+    "expo-font": "^11.10.3",
+    "expo-linear-gradient": "^12.7.2",
+    "expo-status-bar": "~1.11.1",
+    "immer": "^10.0.4",
+    "lottie-react-native": "^6.5.1",
+    "react": "18.2.0",
+    "react-native": "0.73.6",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-safe-area-context": "^4.8.2",
+    "react-native-screens": "^3.29.0",
+    "react-native-splash-screen": "^3.3.0",
+    "react-native-vector-icons": "^10.0.3",
+    "typescript": "^5.3.0",
+    "zustand": "^4.5.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/react-native-vector-icons": "^6.4.18"
+  },
+  "private": true
+}
